@@ -32,5 +32,5 @@ Para rodar o projeto localmente:
 
 ## ✒️ Autor
 Leandro Esser Falcão - Desenvolvedor Front-end
- [GitHub] https://github.com/Fxlcao
- [LinkedIn] https://www.linkedin.com/in/leandro-esser-falcao-890590168
+ GitHub https://github.com/Fxlcao
+ LinkedIn https://www.linkedin.com/in/leandro-esser-falcao-890590168
