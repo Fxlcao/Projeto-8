@@ -2,7 +2,7 @@ Projeto Dashboard
 
 Este é um painel administrativo moderno e clean, desenvolvido para visualização de métricas operacionais e gerenciamento de dados.
 
-![Preview do Projeto](./imagens/image.png)
+![Preview do Projeto](./imagens/Dashboard_1.png)
 
 Sobre o Projeto
 O projeto consiste em uma interface de Dashboard funcional com navegação lateral (sidebar), cabeçalho de perfil e área de conteúdo principal com cards de resumo e gráficos. 
